@@ -1,0 +1,13 @@
+
+.catagories img{
+ width: 100px;
+}
+.danger-btn{
+    border:1px solid pink;
+    color: white;
+    background-image: linear-gradient(to top right , rgb(235, 20, 199),rgb(255, 97, 189))
+}
+.animation:hover img{
+    transform: scale(1.1);
+    transition: transform .2s;
+}
